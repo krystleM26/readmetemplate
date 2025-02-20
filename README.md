@@ -17,33 +17,36 @@ _A simple, clean, and structured template for creating your project's README fil
 To get started with the project, follow these steps:  
 
 1. **Clone the repo**:  
-   ```bash
    git clone https://github.com/krystlem26/readmetemplate.git
    cd readmetemplate
 
 2. ** Project Dependencies:
-    If your project has dependencies, simply install using:
+   # If your project has dependencies, simply install using:
      npm install  # or yarn install
 
 ---
 
-🛠 Usage
+## 🛠 Usage
 To use this template for your own project, simply copy the contents of the README and customize the sections for your own project.
-# To run the project locally:
-  npm start
+ To run the project locally:
+     npm start
 
 
 ---
 
 🧪 Running Tests
-To run the test suite, use:
-    ```bash
+# To run the test suite, use:
      npm test
 
 ---
-📢 Contact
+## 📢 Contact
 For questions or inquiries, feel free to reach out:
-
 Email: 
 Website: 
+
+--- 
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for more details.
+
+
 
